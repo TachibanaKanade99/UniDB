@@ -16,8 +16,8 @@ To team members: please read all parts of the Wiki before working on our project
 [link](https://www.facebook.com/groups/1644914978938738/1646639988766237/)
 
 ## TODO List
-- [] General top-level design for the program
-- [] Instruction for Git and Github
-- [] Instruction for some C++ STL libraries
+- [ ] General top-level design for the program
+- [ ] Instruction for Git and Github
+- [ ] Instruction for some C++ STL libraries
 - [x] Instruction for Code::Blocks IDE
 - [x] Instruction for Coding Style
